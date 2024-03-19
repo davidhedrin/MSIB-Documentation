@@ -1,4 +1,4 @@
-# MSIB Documentation IT Detp
+# MSIB Documentation IT Dept
 ![Generic badge](https://img.shields.io/badge/MSIB-IT_Detpartment-green.svg) ![Generic badge](https://img.shields.io/badge/MSIB-Batch_6-red.svg)
 
 ## Vee-Validate
